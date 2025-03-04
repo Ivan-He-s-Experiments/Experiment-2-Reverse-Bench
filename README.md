@@ -14,10 +14,12 @@ E.g. Input: Hello World. Output: .dlroW olleH
 
 ### Format:
 
-Text Generation
+Text Generation (English)
 
 ## Results
 
+
+## Normal Models
 | Model     	| Llama 3.3 70B Instruct 	| Llama 3.1 405B Instruct 	| Llama 3.1 Tulu 3 405 	|
 |-----------	|------------------------	|-------------------------	|----------------------	|
 | Acuracy   	| 4.07%                  	| 3.40%                   	| 2.28%                	|
@@ -32,3 +34,17 @@ Text Generation
 | Rouge-l r 	| 3.03%                  	| 3.58%                   	| 24.19%               	|
 | Rouge-l p 	| 16.86%                 	| 15.44%                  	| 49.29%               	|
 | Rouge-l f 	| 4.90%                  	| 5.54%                   	| 30%                  	|
+
+## Reasoning Models
+
+Not Available Yet (I hit rate limit while testing ;-;)
+
+# So What?
+
+The Results proove that the models we have are currently not as close to AGI, since humans, given enough time, can do it in their most fluent language.
+
+However, the current best opensourced models failed at this task.
+
+# Next Steps
+
+Try other close sourced models (I don't have money right now tho .___. ) and also Reasoning Models.
