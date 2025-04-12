@@ -50,4 +50,4 @@ However, the current best opensourced models failed at this task.
 
 # Next Steps
 
-Try other close sourced models (I don't have money right now tho .___. ) and also Reasoning Models.
+Try other close sourced models (I don't have money right now tho .___. ).
