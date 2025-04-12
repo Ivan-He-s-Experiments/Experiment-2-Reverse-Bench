@@ -51,3 +51,5 @@ However, the current best opensourced models failed at this task.
 # Next Steps
 
 Try other close sourced models (I don't have money right now tho .___. ).
+
+Also, longer contexts to experiment with the limits of context retrival and reasoning.
