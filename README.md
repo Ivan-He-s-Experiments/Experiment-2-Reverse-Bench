@@ -4,7 +4,7 @@
 
 ### Purpose:
 
-Evaluate's a models ability toe use context and ability to reason.
+Evaluate's a models ability to manipulate context, ability to reason, and ability to recall information.
 
 ### Goal:
 
